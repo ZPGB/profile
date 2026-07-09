@@ -136,32 +136,32 @@ const portfolio = {
 
         {
 
-            name: "REST API Integration",
+    name: "REST APIs",
 
-            level: "Advanced",
+    level: "Intermediate",
 
-            experience: "10+ Years",
+    experience: "Hands-on",
 
-            description:
-                "Integration of third-party REST APIs and external data sources to automate data acquisition and support enterprise business processes.",
+    description:
+        "Developed secure ASP.NET Core REST APIs integrated with SQL Server, exposing relational data through JSON endpoints and implementing JWT Bearer authentication. Extensive experience integrating with third-party REST APIs for enterprise data acquisition and automation.",
 
-            highlights: [
+    highlights: [
 
-                "REST API integration",
+        "ASP.NET Core REST API development",
 
-                "Third-party system integration",
+        "SQL Server integration",
 
-                "External data sources",
+        "JWT Bearer authentication",
 
-                "API-driven automation",
+        "JSON-based REST services",
 
-                "Data exchange",
+        "Third-party REST API integration",
 
-                "API troubleshooting"
+        "API troubleshooting"
 
-            ]
+    ]
 
-        }
+}
 
     ]
 
