@@ -340,11 +340,9 @@ const portfolio = {
 
             highlights: [
 
-                "ETL",
+                "ETL/ELT",
 
                 "SSIS",
-
-                "Extract, Transform & Load",
 
                 "Automated pipelines",
 
